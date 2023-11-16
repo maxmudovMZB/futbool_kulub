@@ -1,0 +1,71 @@
+body {
+    background-color: aqua;
+}
+
+div {
+    display: flex;
+    margin: 100px 50px;
+    flex-direction: row;
+    background-color: white;
+    border-radius: 8px;
+}
+
+ul {
+    margin-left: 150px;
+    list-style: none;
+    text-align: center;
+}
+
+.miami_price {
+    font-size: 25px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: pink
+    ;
+}
+
+.psg_price {
+    font-size: 25px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color:blue
+}
+
+
+.barselona_price {
+    font-size: 25px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: brown;
+}
+
+.intermiami {
+    color: pink;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+    ;
+}
+
+.PSG {
+    color: blue;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+    ;
+}
+
+.BARSELONA {
+    color: brown;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+    ;
+}
+
+.miami_shior{
+    font-style: oblique;
+}
+
+.psg_shior{
+    font-style: oblique;
+}
+
+.barsa_shior{
+    font-style: oblique;
+}
+
+b {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
